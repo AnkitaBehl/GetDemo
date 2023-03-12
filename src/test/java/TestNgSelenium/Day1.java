@@ -18,6 +18,20 @@ public class Day1 {
 		System.out.println("Hello");
 		System.out.println("Hello1");
 		System.out.println("Hello2");
+		System.out.println("Hello4");
+		System.out.println("Hello5");
+		
+	}
+	
+	@Test
+	
+	public void Create()
+	{
+		System.out.println("Morning");
+		System.out.println("Morning1");
+		System.out.println("Morning2");
+		System.out.println("Morning4");
+		System.out.println("Morning5");
 		
 	}
 	@AfterSuite

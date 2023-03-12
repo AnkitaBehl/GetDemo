@@ -14,6 +14,12 @@ public class Day3 {
 		System.out.println(" Weblogincar");
 	}
 	@Test
+	public void Webchecking()
+	{
+		//Selenium
+		System.out.println(" WebChecking");
+	}
+	@Test
 	public void Mobilelogincarloan()
 	{
 		//Appium
