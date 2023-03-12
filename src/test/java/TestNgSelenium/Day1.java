@@ -16,6 +16,9 @@ public class Day1 {
 	public void Demo()
 	{
 		System.out.println("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello");
+		
 	}
 	@AfterSuite
 	public void Afsuit()
