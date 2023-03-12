@@ -16,8 +16,8 @@ public class Day1 {
 	public void Demo()
 	{
 		System.out.println("Hello");
-		System.out.println("Hello");
-		System.out.println("Hello");
+		System.out.println("Hello1");
+		System.out.println("Hello2");
 		
 	}
 	@AfterSuite
